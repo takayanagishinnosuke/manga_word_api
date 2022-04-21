@@ -8,7 +8,7 @@
 - ※ requirements.txtファイルに使用環境入ってますが、使ってないライブラリも多く含まれてます
 - HTMLからGETのリクエストがあった時にword_dcdc.pyで処理した結果が返ります。（ローカルサーバー起動しないと動きません）
 ## これを表現する用のHTMLファイル
-- https://github.com/takayanagishinnosuke/manga_meigen_html/blob/main/README.md
+- https://github.com/takayanagishinnosuke/manga_meigen_html/
 
 ## こだわった点
 - 固有名詞を結合してみたり、単語の出現頻度からよく使われる単語を除去してみたりしましたが、削りすぎるとマンガ独特の言い回しも削れてしまうので調整に悩みました。
